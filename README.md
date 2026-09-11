@@ -2,9 +2,10 @@
 
 QA Automation Engineer returning to tech after a career break, specializing in Playwright + Python.
 
+- 🎓 ISTQB Foundation Level Certified
 - 🔭 Currently building automation frameworks combining Playwright, pytest, REST API testing, and CI/CD
-- 🌱 Also Certified in PostgreSQL, Postman and REST Assured
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sukanya-boopathirajan-63986a2a1/)
+- ✅ Certified in Manual Testing, PostgreSQL, Postman, REST Assured, and JIRA
+- 📫 Reach me on [LinkedIn](your-linkedin-url-here)
 
 ### Featured Projects
 - **[big-playwright-automation-project](https://github.com/sukanyagit2026/big-playwright-automation-project)** — Full UI + API test framework for automationexercise.com (Page Object Model, data-driven tests, visual regression, CI/CD across 3 browsers)
