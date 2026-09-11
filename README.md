@@ -1,6 +1,7 @@
 ### Hi, I'm Sukanya 👋
 
-QA Automation Engineer returning to tech after a career break, specializing in Playwright + Python.
+ISTQB Certified | QA Automation Engineer | Playwright, Python, PostgreSQL, Postman, REST Assured, JIRA | Career-break returner building real-world test frameworks
+
 ### Certifications
 [![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=flat-square)](ISTQB%20Foundation%20level.pdf)
 [![Manual Testing](https://img.shields.io/badge/Manual%20Testing-Certified-blue?style=flat-square)](software%20manual%20testing%20certificate%20pdf.pdf)
