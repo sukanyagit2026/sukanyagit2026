@@ -8,4 +8,4 @@ QA Automation Engineer returning to tech after a career break, specializing in P
 
 ### Featured Projects
 - **[big-playwright-automation-project](https://github.com/sukanyagit2026/big-playwright-automation-project)** — Full UI + API test framework for automationexercise.com (Page Object Model, data-driven tests, visual regression, CI/CD across 3 browsers)
-- **[banking-playwright-project](https://github.com/sukanyagit2026/banking-playwright-project)** — ParaBank banking test suite (26 test cases across 9 modules, 11 real bugs found and documented)
+- **[banking-playwright-project](https://github.com/sukanyagit2026/banking-playwright-project)** — ParaBank banking test suite (26 test cases across 9 modules)
