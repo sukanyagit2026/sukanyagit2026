@@ -16,7 +16,7 @@ ISTQB Certified | QA Automation Engineer | Playwright, Python, PostgreSQL, Postm
 ### Featured Projects
 - **[big-playwright-automation-project](https://github.com/sukanyagit2026/big-playwright-automation-project)** — Full UI + API test framework for automationexercise.com (Page Object Model, data-driven tests, visual regression, CI/CD across 3 browsers)
 - **[banking-playwright-project](https://github.com/sukanyagit2026/banking-playwright-project)** — ParaBank banking test suite (26 test cases across 9 modules)
-- 🚧 **api-qa-suite** *(in progress)* — API testing suite against a public REST API (reqres.in) using Postman and REST Assured (Java), with PostgreSQL for data validation, GitHub Actions CI/CD, and a full JIRA workflow (backlog, sprints, issue tracking)
+- 🚧 **api-qa-suite** — API testing suite against a public REST API (reqres.in) using Postman and REST Assured (Java), with PostgreSQL for data validation, GitHub Actions CI/CD, and a full JIRA workflow (backlog, sprints, issue tracking)
 
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sukanya-boopathirajan-63986a2a1/)
