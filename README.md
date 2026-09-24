@@ -11,7 +11,7 @@ ISTQB Certified | QA Automation Engineer | Playwright, Python, PostgreSQL, Postm
 [![Postman](https://img.shields.io/badge/API%20Testing-Postman-FF6C37?style=flat-square)](Apply%20API%20Testing%20fundamendals%20using%20POSTMAN.pdf)
 [![REST Assured](https://img.shields.io/badge/REST%20Assured-Certified-informational?style=flat-square)](REST%20Assured%20Java%20-%20Beginners.pdf)
 [![JIRA](https://img.shields.io/badge/JIRA-Certified-0052CC?style=flat-square)](JIRA%20for%20software%20tester.pdf)
-[![Advanced Framework Development](https://img.shields.io/badge/Advanced%20Framework%20Dev-Certified-FF6F00?style=flat-square)](Advanced%20Framework%20Development%20and%20Integration.pdf)
+[![Selenium](https://img.shields.io/badge/Selenium-Certified-FF6F00?style=flat-square)](Advanced%20Framework%20Development%20and%20Integration.pdf)
 
 ### Featured Projects
 - **[big-playwright-automation-project](https://github.com/sukanyagit2026/big-playwright-automation-project)** — Full UI + API test framework for automationexercise.com (Page Object Model, data-driven tests, visual regression, CI/CD across 3 browsers)
