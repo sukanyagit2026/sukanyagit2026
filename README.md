@@ -1,6 +1,6 @@
 ### Hi, I'm Sukanya 👋
 
-ISTQB Certified | QA Automation Engineer | Playwright, Python, PostgreSQL, Postman, REST Assured, JIRA | Career-break returner building real-world test frameworks
+ISTQB Certified | QA Automation Engineer | Playwright, Selenium, Python, PostgreSQL, Postman, REST Assured, SoapUI, JIRA | Career-break returner building real-world test frameworks
 
 ### Certifications
 [![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=flat-square)](ISTQB%20Foundation%20level.pdf)
@@ -12,8 +12,10 @@ ISTQB Certified | QA Automation Engineer | Playwright, Python, PostgreSQL, Postm
 [![REST Assured](https://img.shields.io/badge/REST%20Assured-Certified-informational?style=flat-square)](REST%20Assured%20Java%20-%20Beginners.pdf)
 [![JIRA](https://img.shields.io/badge/JIRA-Certified-0052CC?style=flat-square)](JIRA%20for%20software%20tester.pdf)
 [![Selenium](https://img.shields.io/badge/Selenium-Certified-FF6F00?style=flat-square)](Advanced%20Framework%20Development%20and%20Integration.pdf)
+![SoapUI](https://img.shields.io/badge/SoapUI-Certified-2E8B57)
 
 ### Featured Projects
+- [unified-qa-automation-framework](https://github.com/sukanyagit2026/unified-qa-automation-framework) — UI, REST and SOAP test framework: Playwright, Selenium, Postman/Newman, REST Assured and SoapUI, with PostgreSQL results analysis and a 4-job GitHub Actions pipeline
 - **[big-playwright-automation-project](https://github.com/sukanyagit2026/big-playwright-automation-project)** — Full UI + API test framework for automationexercise.com (Page Object Model, data-driven tests, visual regression, CI/CD across 3 browsers)
 - **[banking-playwright-project](https://github.com/sukanyagit2026/banking-playwright-project)** — ParaBank banking test suite (26 test cases across 9 modules)
 - **[api-qa-suite](https://github.com/sukanyagit2026/api-qa-suite)** — API testing suite against a public REST API (reqres.in) using Postman and REST Assured (Java), with PostgreSQL for data validation, GitHub Actions CI/CD, and a full JIRA workflow (backlog, sprints, issue tracking)
