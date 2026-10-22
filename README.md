@@ -15,7 +15,7 @@ ISTQB Certified | QA Automation Engineer | Playwright, Selenium, Python, Postgre
 ![SoapUI](https://img.shields.io/badge/SoapUI-Certified-2E8B57)
 
 ### Featured Projects
-- [unified-qa-automation-framework](https://github.com/sukanyagit2026/unified-qa-automation-framework) — UI, REST and SOAP test framework: Playwright, Selenium, Postman/Newman, REST Assured and SoapUI, with PostgreSQL results analysis and a 4-job GitHub Actions pipeline
+- **[unified-qa-automation-framework](https://github.com/sukanyagit2026/unified-qa-automation-framework)** — UI, REST and SOAP test framework: ...
 - **[big-playwright-automation-project](https://github.com/sukanyagit2026/big-playwright-automation-project)** — Full UI + API test framework for automationexercise.com (Page Object Model, data-driven tests, visual regression, CI/CD across 3 browsers)
 - **[banking-playwright-project](https://github.com/sukanyagit2026/banking-playwright-project)** — ParaBank banking test suite (26 test cases across 9 modules)
 - **[api-qa-suite](https://github.com/sukanyagit2026/api-qa-suite)** — API testing suite against a public REST API (reqres.in) using Postman and REST Assured (Java), with PostgreSQL for data validation, GitHub Actions CI/CD, and a full JIRA workflow (backlog, sprints, issue tracking)
